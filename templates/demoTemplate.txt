@@ -1,0 +1,7 @@
+Dear {{name}},
+
+We are pleased to inform you that your application for the {{position}} at {{company}} has been approved. Your joining date is {{joining_date}}, and we look forward to welcoming you to our team.
+
+Best regards,  
+{{sender_name}}  
+{{company}}  
