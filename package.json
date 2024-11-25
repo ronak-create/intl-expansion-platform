@@ -13,6 +13,7 @@
     "chart.js": "^4.4.6",
     "cors": "^2.8.5",
     "google-trends-api": "^4.9.2",
+    "iso-3166-1-alpha-2": "^1.0.2",
     "jsonwebtoken": "^9.0.2",
     "jspdf": "^2.5.2",
     "mongoose": "^8.8.2",
